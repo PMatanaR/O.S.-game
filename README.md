@@ -7,7 +7,7 @@
 
 - A thread is a basic unit of CPU utilization, consisting of a program counter, a stack, and a set of registers, (and a thread ID.)
 
-- Traditional processes have a single thread of control.
+- Traditional processes have a single thread of control.        
 
 - A semaphore is a variable or abstract data type used to control access to a common resource by multiple processes in a concurrent system such as a multitasking operating system.
 
