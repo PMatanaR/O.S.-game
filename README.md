@@ -1,7 +1,7 @@
 
 # Operating Systems Game 🎮
 
-## A simple game in C++ to learn about threads 🧵 and semaphores 🚦! 
+## A simple game in C++ to learn about threads 🧵 and semaphores 🚦!
 
 ### :books: SSC0140 - Operating Systems (USP - ICMC)
 

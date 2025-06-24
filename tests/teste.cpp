@@ -10,6 +10,8 @@
 #define RIGHT 3
 #define PLAYER_COLOR 2
 #define WALL_COLOR 1
+
+
 // global
 int ch, op = 0;
 int x = 15, y = 7;
